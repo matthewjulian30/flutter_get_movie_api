@@ -1,6 +1,6 @@
-# get movie api
+# Get Movie API
 
-A new Flutter project.
+My new project for my mid exam.
 
 ## Getting Started
 
